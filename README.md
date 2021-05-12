@@ -1,16 +1,9 @@
 <h1>
 Bem vindo ao meu Github
 </h1>
-<p>
 Me chamo **Jonathan Silveira**, tenho 33 anos.
-  <p/>
-  
-  <p>
-  aqui
-  <p/>
-  <p>
-  teste
-  <p/>
+aqui.
+teste.
 
 
 

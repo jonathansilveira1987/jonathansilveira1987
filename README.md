@@ -1,13 +1,9 @@
 <h1>
 Bem vindo ao meu Github
 </h1>
-<>
-Me chamo Jonathan Silveira, tenho 33 anos.
-</>
-<>
-[I'm an inline-style link](https://www.linkedin.com/in/jonathan-silveira-51688a86/)
-</>
 
+Me chamo Jonathan Silveira, tenho 33 anos.
+[I'm an inline-style link](https://www.linkedin.com/in/jonathan-silveira-51688a86/).
 
 
 

@@ -4,17 +4,17 @@ Bem vindo ao meu Github
 
 Me chamo **Jonathan Silveira**, tenho 33 anos.
 
+Estudante de Análise e Desenvolvomento de Sistemas no Ifsul Campus Camaquã/RS e um bom **Autodidata**!
+
+Pergunte-me sobre **Python**, posso te ajudar!
+
+Estudando com foco em me aprimorar na área de **Inteligência Artificial**.
+
+
+
 [LinkedIn](https://www.linkedin.com/in/jonathan-silveira-51688a86/)
 
 
-
-Inline-style: 
-![alt text](https://www.linkedin.com/in/jonathan-silveira-51688a86//adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 

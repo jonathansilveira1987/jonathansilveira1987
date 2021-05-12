@@ -2,10 +2,9 @@
 Bem vindo ao meu Github
 </h1>
 
-[LinkDein](https://www.linkedin.com/in/jonathan-silveira-51688a86/)
+Me chamo **Jonathan Silveira**, tenho 33 anos.
 
-
-
+[LinkedIn](https://www.linkedin.com/in/jonathan-silveira-51688a86/)
 
 
 

@@ -6,15 +6,15 @@ Me chamo **Jonathan Silveira**, tenho 33 anos.
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-silveira-51688a86/)
 
+
+
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.linkedin.com/in/jonathan-silveira-51688a86//adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
+[logo]: https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 

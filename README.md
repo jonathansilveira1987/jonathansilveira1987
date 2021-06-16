@@ -4,7 +4,7 @@ Bem vindo ao meu Github
 
 Me chamo **Jonathan Silveira**, tenho 33 anos.
 
-Graduando no Curso de **Análise e Desenvolvimento de Sistemas** no Ifsul Campus Camaquã / RS.
+Graduando no Curso de **Análise e Desenvolvimento de Sistemas** na Unopar.
 
 Sou um bom **Autodidata**!
 

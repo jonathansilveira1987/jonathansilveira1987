@@ -14,7 +14,7 @@ Estudando com foco em me aprimorar na área de **Inteligência Artificial & Mach
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-silveira-51688a86/)
 
-[Instagram](https://www.instagram.com/jonathandev01/?hl=pt)
+[Instagram](https://www.instagram.com/eu.jonathansilveira/)
 
 
 
